@@ -2,17 +2,15 @@
   "rules": [
     {
       "domain": [
-        "anthropic.com",
-        "claude.ai",
         "servd-anthropic-website.b-cdn.net"
       ]
     },
     {
       "domain_suffix": [
-        ".anthropic.com",
-        ".claude.ai"
+        "anthropic.com",
+        "claude.ai"
       ]
     }
   ],
-  "version": 1
+  "version": 2
 }

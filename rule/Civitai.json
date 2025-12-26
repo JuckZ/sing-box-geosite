@@ -1,15 +1,10 @@
 {
   "rules": [
     {
-      "domain": [
-        "civitai.com"
-      ]
-    },
-    {
       "domain_suffix": [
-        ".civitai.com"
+        "civitai.com"
       ]
     }
   ],
-  "version": 1
+  "version": 2
 }

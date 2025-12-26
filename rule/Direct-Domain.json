@@ -1,8 +1,17 @@
 {
   "rules": [
     {
-      "domain": [
+      "domain_keyword": [
+        "fuckcloudnative",
+        "icloudnative",
+        "qingstor",
+        "weixin"
+      ]
+    },
+    {
+      "domain_suffix": [
         "cctv.cn",
+        "cloudflareinsights.com",
         "dida365.com",
         "fast.com",
         "jijifun.com",
@@ -13,29 +22,7 @@
         "yangcs.net",
         "yangshipin.cn"
       ]
-    },
-    {
-      "domain_keyword": [
-        "fuckcloudnative",
-        "icloudnative",
-        "qingstor",
-        "weixin"
-      ]
-    },
-    {
-      "domain_suffix": [
-        ".cctv.cn",
-        ".dida365.com",
-        ".fast.com",
-        ".jijifun.com",
-        ".qlogo.cn",
-        ".qpic.cn",
-        ".speedtest.net",
-        ".weixinbridge.com",
-        ".yangcs.net",
-        ".yangshipin.cn"
-      ]
     }
   ],
-  "version": 1
+  "version": 2
 }
